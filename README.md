@@ -9,6 +9,7 @@ This project just used for testing some github action and other technologies, ma
 - **Interactive Calendar**: Manage your events, reminders, and important dates effortlessly.
 - **Quran**: Access the full text of the Quran, including translations and audio recitations.
 - **Nahj al-Balagha**: Explore the wisdom of Nahj al-Balagha with searchable text and commentary.
+- **Nahj al-Fasahe**: Explore the wisdom of Nahj al-Fasahe with searchable text and commentary.
 - **Additional Books**: Read and navigate through a selection of other significant texts.
 - **Offline Access**: Enjoy the app's features even without an internet connection, thanks to PWA capabilities.
 - **Responsive Design**: Designed to work on various devices, providing a seamless experience on mobile and desktop.
